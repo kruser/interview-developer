@@ -16,3 +16,5 @@ Upon completion you will deliver the following
 
 * Your Python code can assume the tables it uses have already been created. That is, it doesn't need to 
 automatically create the tables.
+* Feel free to use any modules available via a ```pip install```. Include a ```requirements.txt``` file that
+lists the dependencies.
