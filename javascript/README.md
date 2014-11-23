@@ -3,7 +3,7 @@
 For this exercise you will be developing a mini web application for viewing the Cubs MLB
 team roster and providing the ability for the user to save notes on a player.
 
-Use the (roster.json)[roster.json] file that describes the Cubs current roster to
+Use the [roster.json](roster.json) file that describes the Cubs current roster to
 drive your application.
 
 The user should be able to save and view short text notes on a player.
