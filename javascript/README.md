@@ -1,12 +1,13 @@
 #JavaScript/UI/UX Coding Exercise
 ============================
 For this exercise you will be developing a mini web application for viewing the Cubs MLB
-team roster and providing the ability for the user to save notes on a player.
+team roster. 
 
 Use the [roster.json](roster.json) file that describes the Cubs current roster to
 drive your application.
 
-The user should be able to save and view short text notes on a player.
+Required Features:
+* The user must be able to save and view short text notes on any player.
 
 Upon completion you will deliver the following:
 * JavaScript, HTML and other resources required to run your application.
