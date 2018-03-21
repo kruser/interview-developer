@@ -1,7 +1,6 @@
 ## Exercises
 
 ### Javascript/UI/UX Coding Exercise #1: Pitch Visualization
-============================
 For this task, we would like you to build a web page/app that presents pitches from TrackMan in any visualization you see fit. This could be a scatter plot, a heatmap, data tables, etc.
 
 We have provided a data set that includes a set of Jon Lester's regular season pitches in 2016.
@@ -13,7 +12,6 @@ https://s3.amazonaws.com/chcubs-interviews/lester.json
 - **is_pa_pitch:** is true when this is the final pitch of an atbat
 
 ### JavaScript/UI/UX Coding Exercise #2: Roster Browser
-============================
 For this exercise you will be developing a mini web application for viewing the Cubs MLB
 team roster. 
 
