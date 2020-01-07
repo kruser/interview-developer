@@ -4,7 +4,7 @@
 For this task, we would like you to build a web page/app that presents pitches from TrackMan in any visualization you see fit. This could be a scatter plot, a heatmap, data tables, etc.
 
 We have provided a data set that includes a set of Jon Lester's regular season pitches in 2016.
-https://s3.amazonaws.com/chcubs-interviews/lester.json 
+https://chcubs-interviews.s3.amazonaws.com/pitches/452657.json
 
 #### JSON Property Descriptions
 - **location_x:** distance, in feet, of the ball from the middle of home plate as it crosses the front of the plate's plane. From the pitcher's perspective, negative values are left, positive right.
