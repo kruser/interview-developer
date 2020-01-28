@@ -28,7 +28,7 @@ Upon completion of either extercise you will deliver the following:
 * An explanation of the technologies used
 * directions for starting your web app
 
-###Notes
+### Notes
 * Your application does not need to utilitze an application server. Ideally it
 will run simply by opening an HTML file in a web browser.
 * Specify the browser you tested with. Either Chrome or Firefox is fine.
